@@ -23,23 +23,7 @@
 ---
 
 <!-- 下面的区域是自动化脚本填充的，请保留这些注释标记 -->
+### ⚡ Recent Activity
 
-### 🪅 Recent contributed Repos
-<!--START_SECTION:contributed_repos-->
-<!--END_SECTION:contributed_repos-->
-
-### 🔭 Latest releases I've contributed to
-<!--START_SECTION:releases-->
-<!--END_SECTION:releases-->
-
-### 🔨 My recent Pull Requests
-<!--START_SECTION:pull_requests-->
-<!--END_SECTION:pull_requests-->
-
-### ⭐ Recent Stars
-<!--START_SECTION:recent_stars-->
-<!--END_SECTION:recent_stars-->
-
-### 👯 Check out some of my recent followers
-<!--START_SECTION:followers-->
-<!--END_SECTION:followers-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
