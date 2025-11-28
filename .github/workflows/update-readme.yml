@@ -1,0 +1,26 @@
+name: Update README
+
+on:
+  schedule:
+    # 每天 UTC 时间 0点 运行一次 (北京时间早上8点)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许你手动点击按钮触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v3
+      
+      # 这个 Action 负责抓取你的活动并更新 README
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # 以下参数对应 README.md 中的注释标记
+          COMMIT_NAME: 'github-actions[bot]'
+          COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
+          MAX_LINES: 5 
+          readme_path: './README.md'
