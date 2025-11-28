@@ -2,9 +2,8 @@ name: Update README
 
 on:
   schedule:
-    # 每天 UTC 时间 0点 运行一次 (北京时间早上8点)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # 允许你手动点击按钮触发
+    - cron: '0 0 * * *' # 每天运行一次
+  workflow_dispatch: # 允许手动点击触发
 
 jobs:
   build:
@@ -14,13 +13,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      # 这个 Action 负责抓取你的活动并更新 README
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # 以下参数对应 README.md 中的注释标记
+          # 修正参数：删除了无效的 readme_path
+          # 修正参数：使用正确的参数 TARGET_FILE (如果是 README.md 其实可以省略，但写上也无妨)
+          TARGET_FILE: 'README.md' 
           COMMIT_NAME: 'github-actions[bot]'
           COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
-          MAX_LINES: 5 
-          readme_path: './README.md'
+          COMMIT_MSG: '⚡ Update README with the recent activity'
+          MAX_LINES: 10
