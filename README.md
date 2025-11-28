@@ -1,10 +1,10 @@
-# Hi there 👋 I'm [Yi]
+# Hi there 👋 I'm Yi
 
 <!-- 这里写一句简短的个人标语 -->
-🔭 I’m currently working for **[myself]**
+🔭 I’m currently working for **myself**
 
 <!-- 这里的邮箱可以使用 Base64 加密，防止爬虫抓取，或者直接写明文 -->
-📫 How to reach me: [d2FuZ3lpaWNsb3VkQGljbG91ZC5jb20=]
+📫 How to reach me: d2FuZ3lpaWNsb3VkQGljbG91ZC5jb20=
 
 ### 📟 My favorite tools
 
