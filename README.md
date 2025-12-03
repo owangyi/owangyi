@@ -27,8 +27,8 @@
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [beta](https://github.com/owangyi/review-app-devbar/releases/tag/v1.0.1) in [owangyi/review-app-devbar](https://github.com/owangyi/review-app-devbar)
-2. 💪 Opened PR [#22](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
-3. 💪 Opened PR [#21](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
-4. 💪 Opened PR [#20](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
-5. 🔒 Closed issue [#12](https://github.com/owangyi/laravel-all-in-one/issues/12) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
+2. ❌ Merged PR [#22](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
+3. 💪 Opened PR [#22](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
+4. ❌ Merged PR [#21](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
+5. 💪 Opened PR [#21](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
 <!--END_SECTION:activity-->
