@@ -26,8 +26,8 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/LeoYang90/laravel-source-analysis/issues/7) in [LeoYang90/laravel-source-analysis](https://github.com/LeoYang90/laravel-source-analysis)
-2. 🚀 Published release [beta](https://github.com/owangyi/review-app-devbar/releases/tag/v1.0.1) in [owangyi/review-app-devbar](https://github.com/owangyi/review-app-devbar)
+1. 🎉 Merged PR [#23](https://github.com/owangyi/laravel-all-in-one/pull/23) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
+2. 💪 Opened PR [#23](https://github.com/owangyi/laravel-all-in-one/pull/23) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
 3. ❌ Merged PR [#22](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
 4. 💪 Opened PR [#22](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
 5. ❌ Merged PR [#21](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
