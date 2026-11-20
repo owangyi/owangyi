@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mycloud-sg/smpp-monitor/pull/1) in [mycloud-sg/smpp-monitor](https://github.com/mycloud-sg/smpp-monitor)
-2. 💪 Opened PR [#1](https://github.com/mycloud-sg/smpp-monitor/pull/1) in [mycloud-sg/smpp-monitor](https://github.com/mycloud-sg/smpp-monitor)
-3. ❌ Merged PR [#22](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
-4. 💪 Opened PR [#22](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
+1. 🎉 Merged PR [#2](https://github.com/mycloud-sg/smpp-monitor/pull/2) in [mycloud-sg/smpp-monitor](https://github.com/mycloud-sg/smpp-monitor)
+2. 💪 Opened PR [#2](https://github.com/mycloud-sg/smpp-monitor/pull/2) in [mycloud-sg/smpp-monitor](https://github.com/mycloud-sg/smpp-monitor)
+3. 🎉 Merged PR [#1](https://github.com/mycloud-sg/smpp-monitor/pull/1) in [mycloud-sg/smpp-monitor](https://github.com/mycloud-sg/smpp-monitor)
+4. 💪 Opened PR [#1](https://github.com/mycloud-sg/smpp-monitor/pull/1) in [mycloud-sg/smpp-monitor](https://github.com/mycloud-sg/smpp-monitor)
 5. ❌ Merged PR [#21](undefined) in [owangyi/laravel-all-in-one](https://github.com/owangyi/laravel-all-in-one)
 <!--END_SECTION:activity-->
